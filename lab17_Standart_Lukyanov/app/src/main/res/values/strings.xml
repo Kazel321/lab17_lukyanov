@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab17_Standart_Lukyanov</string>
+    <string name="btnStart">СТАРТ</string>
+    <string name="btnStop">СТОП</string>
+    <string name="tvSize">Размер ядра свертки: 3</string>
+    <string name="tvThreads">Количество потоков</string>
+    <string name="tvBlur">Тип размытия</string>
+    <string name="tvTime">Потрачено времени:</string>
+    <string name="rbBox">BOX BLUR</string>
+    <string name="rbGaus">GAUS BLUR</string>
+</resources>
